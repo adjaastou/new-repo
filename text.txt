@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-happy coding
-=======
-stuff and things  more stuff
->>>>>>> 56535e975ac184aec12a55232bd50b7f2e844dc8
+stuff and things more stuff
